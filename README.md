@@ -3,7 +3,7 @@
 Landing page responsiva para clínica veterinária e pet shop. 
 Projeto desenvolvido com HTML5 e CSS3 para praticar layouts modernos e design focado em conversão.
 
-![We Care Preview]()
+![We Care Preview](https://github.com/alexsandrofelix2607-svg/We-Care-About-Your-Pet/blob/main/img/pet.PNG?raw=true)
 
 ### **Sobre o Projeto**
 O "We Care" é uma landing page para uma empresa de cuidados com pets. 
